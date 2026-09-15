@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Mis carpetas de datos locales e IDE
+data/
+.idea/
